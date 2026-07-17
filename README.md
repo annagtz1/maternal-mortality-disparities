@@ -5,7 +5,7 @@ Index scores also have the worst maternal mortality rate in the developed
 world — and who bears that burden?
 
 See the [data dashboard](./maternal-mortality-dashboard.pdf) (built in
-Tableau) for a visual summary, or the [full white paper](./maternal-mortality-white-paper.docx)
+Tableau) for a visual summary, or the [full white paper](./maternal-mortality-report.docx)
 for the complete analysis and discussion.
 
 **Team project** — completed with Peterson Le and Juliette Oliver for
@@ -68,7 +68,7 @@ help explain the U.S.'s outlier status.
 ## Repository structure
 
 ```
-├── maternal-mortality-white-paper.docx    # full write-up: methods, statistical tests, discussion
+├── maternal-mortality-report.docx    # full write-up: methods, statistical tests, discussion
 ├── maternal-mortality-dashboard.pdf       # Tableau dashboard summarizing key statistics
 └── README.md
 ```
