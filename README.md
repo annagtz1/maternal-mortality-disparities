@@ -4,9 +4,11 @@ Why does the country with one of the world's highest Human Development
 Index scores also have the worst maternal mortality rate in the developed
 world — and who bears that burden?
 
-See the [data dashboard](./maternal-mortality-dashboard.pdf) (built in
-Tableau) for a visual summary, or the [full white paper](./maternal-mortality-report.docx)
-for the complete analysis and discussion.
+See the [data dashboard](./maternal-mortality-dashboard.png) (built in
+Tableau) for a visual summary, the [polished report](./maternal-mortality-report.docx)
+for findings written up in a concise, business-report style, or the
+[original white paper](./maternal-mortality-white-paper.docx) for the
+full academic write-up with detailed methodology and discussion.
 
 **Team project** — completed with Peterson Le and Juliette Oliver for
 Digital Humanities 150: Data Analysis for Social Research, UCLA (Dr.
@@ -68,8 +70,9 @@ help explain the U.S.'s outlier status.
 ## Repository structure
 
 ```
-├── maternal-mortality-report.docx    # full write-up: methods, statistical tests, discussion
-├── maternal-mortality-dashboard.pdf       # Tableau dashboard summarizing key statistics
+├── maternal-mortality-white-paper.docx    # original academic write-up: methods, statistical tests, discussion
+├── maternal-mortality-report.docx         # polished report: findings written up in a concise, business-report style
+├── maternal-mortality-dashboard.png       # Tableau dashboard summarizing key statistics
 └── README.md
 ```
 
@@ -91,4 +94,4 @@ five-number summary
 ## Author
 
 Anna Gutierrez, with Peterson Le and Juliette Oliver —
-[portfolio](https://annagtz1.github.io) · [LinkedIn](https://www.linkedin.com/in/anna-gutierrez-m-s/)
+[Portfolio](https://annagtz1.github.io) · [LinkedIn](https://www.linkedin.com/in/anna-gutierrez-m-s/)
