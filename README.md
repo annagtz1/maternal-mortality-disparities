@@ -5,7 +5,7 @@ Index scores also have the worst maternal mortality rate in the developed
 world — and who bears that burden?
 
 See the [data dashboard](./maternal-mortality-dashboard.pdf) (built in
-Tableau) for a visual summary, the [polished report](./maternal-mortality-report.docx)
+Tableau) for a visual summary, the [polished report](maternal-mortality-report.docx)
 for findings written up in a concise, business-report style.
 
 **Team project** — completed with Peterson Le and Juliette Oliver for
