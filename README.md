@@ -4,7 +4,7 @@ Why does the country with one of the world's highest Human Development
 Index scores also have the worst maternal mortality rate in the developed
 world — and who bears that burden?
 
-See the [data dashboard](./maternal-mortality-dashboard.png) (built in
+See the [data dashboard](./maternal-mortality-dashboard.pdf) (built in
 Tableau) for a visual summary, the [polished report](./maternal-mortality-report.docx)
 for findings written up in a concise, business-report style.
 
@@ -69,7 +69,7 @@ help explain the U.S.'s outlier status.
 
 ```
 ├── maternal-mortality-report.docx         # polished report: findings written up in a concise, business-report style
-├── maternal-mortality-dashboard.png       # Tableau dashboard summarizing key statistics
+├── maternal-mortality-dashboard.pdf       # Tableau dashboard summarizing key statistics
 └── README.md
 ```
 
